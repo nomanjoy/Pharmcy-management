@@ -47,7 +47,7 @@ namespace Pharmacy_Management_Application
             this.LifePharma.BackColor = System.Drawing.Color.Transparent;
             this.LifePharma.Font = new System.Drawing.Font("Microsoft YaHei", 28F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LifePharma.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(102)))));
-            this.LifePharma.Location = new System.Drawing.Point(94, 29);
+            this.LifePharma.Location = new System.Drawing.Point(152, 9);
             this.LifePharma.Name = "LifePharma";
             this.LifePharma.Size = new System.Drawing.Size(371, 62);
             this.LifePharma.TabIndex = 1;
