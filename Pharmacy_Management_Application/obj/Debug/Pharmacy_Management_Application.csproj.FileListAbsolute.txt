@@ -8,3 +8,4 @@ E:\c#\pharmacy management application\Pharmacy_Management_Application\bin\Debug\
 E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.exe
 E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.pdb
 E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Dashboard.resources
+E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.LogInPage.resources
