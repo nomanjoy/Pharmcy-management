@@ -9,3 +9,7 @@ E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\
 E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.pdb
 E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Dashboard.resources
 E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.LogInPage.resources
+E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Forms.FormCustomers.resources
+E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.FormOrders.resources
+E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.FormProducts.resources
+E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.FormCreatAccount.resources
