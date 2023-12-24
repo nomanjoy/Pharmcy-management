@@ -1,0 +1,10 @@
+E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.csproj.AssemblyReference.cache
+E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Properties.Resources.resources
+E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.csproj.GenerateResource.cache
+E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.csproj.CoreCompileInputs.cache
+E:\c#\pharmacy management application\Pharmacy_Management_Application\bin\Debug\Pharmacy_Management_Application.exe.config
+E:\c#\pharmacy management application\Pharmacy_Management_Application\bin\Debug\Pharmacy_Management_Application.exe
+E:\c#\pharmacy management application\Pharmacy_Management_Application\bin\Debug\Pharmacy_Management_Application.pdb
+E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.exe
+E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.pdb
+E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Dashboard.resources
