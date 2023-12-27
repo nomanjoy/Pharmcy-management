@@ -13,3 +13,18 @@ E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\
 E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.FormOrders.resources
 E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.FormProducts.resources
 E:\c#\pharmacy management application\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.FormCreatAccount.resources
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\bin\Debug\Pharmacy_Management_Application.exe.config
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\bin\Debug\Pharmacy_Management_Application.exe
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\bin\Debug\Pharmacy_Management_Application.pdb
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.csproj.AssemblyReference.cache
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Dashboard.resources
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.FormCreatAccount.resources
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Forms.FormCustomers.resources
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.FormOrders.resources
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.FormProducts.resources
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.LogInPage.resources
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Properties.Resources.resources
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.csproj.GenerateResource.cache
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.csproj.CoreCompileInputs.cache
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.exe
+C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.pdb
