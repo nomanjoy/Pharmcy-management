@@ -3,3 +3,6 @@
 ################################################################################
 
 /Pharmacy_Management_Application/Pharmacy_managementDB.mdf
+/Pharmacy_Management_Application/bin/Debug/PharmacyDB.mdf
+/Pharmacy_Management_Application/PharmacyDB.mdf
+/Pharmacy_Management_Application/PharmacyDB_log.ldf
