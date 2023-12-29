@@ -45,7 +45,6 @@
             this.btnCloseChildForm = new System.Windows.Forms.Button();
             this.lblTitle = new System.Windows.Forms.Label();
             this.panelDesktopPane = new System.Windows.Forms.Panel();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.panelMenu.SuspendLayout();
             this.panelLogo.SuspendLayout();
             this.panelTitleBar.SuspendLayout();
@@ -54,7 +53,6 @@
             // panelMenu
             // 
             this.panelMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(51)))), ((int)(((byte)(76)))));
-            this.panelMenu.Controls.Add(this.dateTimePicker1);
             this.panelMenu.Controls.Add(this.btnsettings);
             this.panelMenu.Controls.Add(this.btnnotifications);
             this.panelMenu.Controls.Add(this.btnReporting);
@@ -319,13 +317,6 @@
             this.panelDesktopPane.Size = new System.Drawing.Size(993, 803);
             this.panelDesktopPane.TabIndex = 2;
             // 
-            // dateTimePicker1
-            // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(153, 296);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(200, 26);
-            this.dateTimePicker1.TabIndex = 8;
-            // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -365,7 +356,6 @@
         private System.Windows.Forms.Button btnMaximize;
         private System.Windows.Forms.Button bntMinimize;
         private System.Windows.Forms.Button btnClose;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
     }
 }
 
