@@ -40,10 +40,10 @@ namespace Pharmacy_Management_Application
             this.btnAdd = new System.Windows.Forms.Button();
             this.btnRemove = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.cboxCustomerName = new System.Windows.Forms.ComboBox();
-            this.cboxCatagory = new System.Windows.Forms.ComboBox();
-            this.label6 = new System.Windows.Forms.Label();
             this.cboxProductName = new System.Windows.Forms.ComboBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.cboxCatagory = new System.Windows.Forms.ComboBox();
+            this.cboxCustomerName = new System.Windows.Forms.ComboBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -183,21 +183,13 @@ namespace Pharmacy_Management_Application
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
-            // cboxCustomerName
+            // cboxProductName
             // 
-            this.cboxCustomerName.FormattingEnabled = true;
-            this.cboxCustomerName.Location = new System.Drawing.Point(771, 18);
-            this.cboxCustomerName.Name = "cboxCustomerName";
-            this.cboxCustomerName.Size = new System.Drawing.Size(217, 24);
-            this.cboxCustomerName.TabIndex = 10;
-            // 
-            // cboxCatagory
-            // 
-            this.cboxCatagory.FormattingEnabled = true;
-            this.cboxCatagory.Location = new System.Drawing.Point(164, 55);
-            this.cboxCatagory.Name = "cboxCatagory";
-            this.cboxCatagory.Size = new System.Drawing.Size(121, 24);
-            this.cboxCatagory.TabIndex = 11;
+            this.cboxProductName.FormattingEnabled = true;
+            this.cboxProductName.Location = new System.Drawing.Point(771, 57);
+            this.cboxProductName.Name = "cboxProductName";
+            this.cboxProductName.Size = new System.Drawing.Size(217, 24);
+            this.cboxProductName.TabIndex = 13;
             // 
             // label6
             // 
@@ -210,13 +202,22 @@ namespace Pharmacy_Management_Application
             this.label6.TabIndex = 12;
             this.label6.Text = "Product Name";
             // 
-            // cboxProductName
+            // cboxCatagory
             // 
-            this.cboxProductName.FormattingEnabled = true;
-            this.cboxProductName.Location = new System.Drawing.Point(771, 57);
-            this.cboxProductName.Name = "cboxProductName";
-            this.cboxProductName.Size = new System.Drawing.Size(217, 24);
-            this.cboxProductName.TabIndex = 13;
+            this.cboxCatagory.FormattingEnabled = true;
+            this.cboxCatagory.Location = new System.Drawing.Point(164, 55);
+            this.cboxCatagory.Name = "cboxCatagory";
+            this.cboxCatagory.Size = new System.Drawing.Size(121, 24);
+            this.cboxCatagory.TabIndex = 11;
+            // 
+            // cboxCustomerName
+            // 
+            this.cboxCustomerName.FormattingEnabled = true;
+            this.cboxCustomerName.Location = new System.Drawing.Point(771, 18);
+            this.cboxCustomerName.Name = "cboxCustomerName";
+            this.cboxCustomerName.Size = new System.Drawing.Size(217, 24);
+            this.cboxCustomerName.TabIndex = 10;
+            this.cboxCustomerName.SelectedIndexChanged += new System.EventHandler(this.cboxCustomerName_SelectedIndexChanged);
             // 
             // FormOrders
             // 

@@ -31,5 +31,10 @@ namespace Pharmacy_Management_Application
         {
 
         }
+
+        private void cboxCustomerName_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
