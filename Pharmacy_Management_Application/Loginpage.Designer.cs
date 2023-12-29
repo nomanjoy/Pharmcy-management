@@ -46,31 +46,49 @@ namespace Pharmacy_Management_Application
             this.LifePharma.BackColor = System.Drawing.Color.Transparent;
             this.LifePharma.Font = new System.Drawing.Font("Microsoft YaHei", 28F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LifePharma.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(102)))));
+<<<<<<< HEAD
             this.LifePharma.Location = new System.Drawing.Point(138, 64);
+=======
+            this.LifePharma.Location = new System.Drawing.Point(155, 40);
+>>>>>>> 519c43934645c78b9da945166a74550360531330
             this.LifePharma.Name = "LifePharma";
-            this.LifePharma.Size = new System.Drawing.Size(371, 62);
+            this.LifePharma.Size = new System.Drawing.Size(443, 75);
             this.LifePharma.TabIndex = 1;
             this.LifePharma.Text = "LIFE PHARMA ";
             this.LifePharma.Click += new System.EventHandler(this.label1_Click_1);
             // 
+<<<<<<< HEAD
+=======
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(161, 202);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(78, 26);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "EMAIL";
+            // 
+>>>>>>> 519c43934645c78b9da945166a74550360531330
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(145, 201);
+            this.label3.Location = new System.Drawing.Point(163, 251);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(118, 24);
+            this.label3.Size = new System.Drawing.Size(142, 26);
             this.label3.TabIndex = 3;
             this.label3.Text = "PASSWORD";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(307, 201);
+            this.textBox2.Location = new System.Drawing.Point(345, 251);
             this.textBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(231, 22);
+            this.textBox2.Size = new System.Drawing.Size(259, 26);
             this.textBox2.TabIndex = 4;
             // 
             // btnCreateNew
@@ -78,13 +96,13 @@ namespace Pharmacy_Management_Application
             this.btnCreateNew.FlatAppearance.BorderColor = System.Drawing.Color.CornflowerBlue;
             this.btnCreateNew.FlatAppearance.BorderSize = 2;
             this.btnCreateNew.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCreateNew.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCreateNew.Location = new System.Drawing.Point(418, 252);
+            this.btnCreateNew.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCreateNew.Location = new System.Drawing.Point(470, 315);
             this.btnCreateNew.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnCreateNew.Name = "btnCreateNew";
-            this.btnCreateNew.Size = new System.Drawing.Size(119, 37);
+            this.btnCreateNew.Size = new System.Drawing.Size(134, 46);
             this.btnCreateNew.TabIndex = 5;
-            this.btnCreateNew.Text = "Create New";
+            this.btnCreateNew.Text = "CREATE NEW";
             this.btnCreateNew.UseVisualStyleBackColor = true;
             this.btnCreateNew.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -93,33 +111,53 @@ namespace Pharmacy_Management_Application
             this.btnLogIn.FlatAppearance.BorderColor = System.Drawing.Color.CornflowerBlue;
             this.btnLogIn.FlatAppearance.BorderSize = 2;
             this.btnLogIn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnLogIn.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLogIn.Location = new System.Drawing.Point(307, 252);
+            this.btnLogIn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLogIn.Location = new System.Drawing.Point(345, 315);
             this.btnLogIn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnLogIn.Name = "btnLogIn";
-            this.btnLogIn.Size = new System.Drawing.Size(106, 37);
+            this.btnLogIn.Size = new System.Drawing.Size(119, 46);
             this.btnLogIn.TabIndex = 6;
-            this.btnLogIn.Text = "Log in";
+            this.btnLogIn.Text = "LOG IN";
             this.btnLogIn.UseVisualStyleBackColor = true;
             this.btnLogIn.Click += new System.EventHandler(this.button2_Click);
             // 
+<<<<<<< HEAD
+=======
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(345, 205);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(259, 26);
+            this.textBox1.TabIndex = 0;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            // 
+>>>>>>> 519c43934645c78b9da945166a74550360531330
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.label1.Location = new System.Drawing.Point(145, 156);
+=======
+            this.label1.Location = new System.Drawing.Point(163, 155);
+>>>>>>> 519c43934645c78b9da945166a74550360531330
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(122, 24);
+            this.label1.Size = new System.Drawing.Size(144, 26);
             this.label1.TabIndex = 7;
             this.label1.Text = "USER NAME";
             // 
             // textBox3
             // 
+<<<<<<< HEAD
             this.textBox3.Location = new System.Drawing.Point(307, 156);
+=======
+            this.textBox3.Location = new System.Drawing.Point(345, 155);
+>>>>>>> 519c43934645c78b9da945166a74550360531330
             this.textBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(231, 22);
+            this.textBox3.Size = new System.Drawing.Size(259, 26);
             this.textBox3.TabIndex = 8;
             // 
             // btnAdminLogIn
@@ -139,11 +177,15 @@ namespace Pharmacy_Management_Application
             // 
             // LogInPage
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(920, 491);
             this.Controls.Add(this.btnAdminLogIn);
+=======
+            this.ClientSize = new System.Drawing.Size(1042, 551);
+>>>>>>> 519c43934645c78b9da945166a74550360531330
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnLogIn);

@@ -28,6 +28,11 @@ C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Applic
 C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.csproj.CoreCompileInputs.cache
 C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.exe
 C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.pdb
+<<<<<<< HEAD
+=======
+C:\ProjectC#\Pharmacy_Management_Application\bin\Debug\PharmacyDB.mdf
+C:\ProjectC#\Pharmacy_Management_Application\bin\Debug\PharmacyDB_log.ldf
+>>>>>>> 519c43934645c78b9da945166a74550360531330
 C:\ProjectC#\Pharmacy_Management_Application\bin\Debug\Pharmacy_Management_Application.exe.config
 C:\ProjectC#\Pharmacy_Management_Application\bin\Debug\Pharmacy_Management_Application.exe
 C:\ProjectC#\Pharmacy_Management_Application\bin\Debug\Pharmacy_Management_Application.pdb
@@ -43,5 +48,8 @@ C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Appli
 C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.csproj.CoreCompileInputs.cache
 C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.exe
 C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.pdb
+<<<<<<< HEAD
 C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Forms.FormManageUser.resources
 C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Admin_Log_In.resources
+=======
+>>>>>>> 519c43934645c78b9da945166a74550360531330
