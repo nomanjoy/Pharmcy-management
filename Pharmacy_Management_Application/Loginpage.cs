@@ -57,5 +57,12 @@ namespace Pharmacy_Management_Application
             db.Show();
             Visible = false;
         }
+
+        private void btnAdminLogIn_Click(object sender, EventArgs e)
+        {
+            Admin_Log_In al = new Admin_Log_In();
+            al.Show();
+            Visible = false;
+        }
     }
 }

@@ -28,3 +28,20 @@ C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Applic
 C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.csproj.CoreCompileInputs.cache
 C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.exe
 C:\Users\Defected man\Source\Repos\Pharmcy-management\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.pdb
+C:\ProjectC#\Pharmacy_Management_Application\bin\Debug\Pharmacy_Management_Application.exe.config
+C:\ProjectC#\Pharmacy_Management_Application\bin\Debug\Pharmacy_Management_Application.exe
+C:\ProjectC#\Pharmacy_Management_Application\bin\Debug\Pharmacy_Management_Application.pdb
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.csproj.AssemblyReference.cache
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Dashboard.resources
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.FormCreatAccount.resources
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Forms.FormCustomers.resources
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.FormOrders.resources
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.FormProducts.resources
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.LogInPage.resources
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Properties.Resources.resources
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.csproj.GenerateResource.cache
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.csproj.CoreCompileInputs.cache
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.exe
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.pdb
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Forms.FormManageUser.resources
+C:\ProjectC#\Pharmacy_Management_Application\obj\Debug\Pharmacy_Management_Application.Admin_Log_In.resources

@@ -135,7 +135,7 @@ namespace Pharmacy_Management_Application
 
         private void btnsettings_Click(object sender, EventArgs e)
         {
-            ActivateButton(sender);
+            OpenChildForm(new Forms.FormManageUser(), sender);
         }
 
         private void panelTitleBar_Paint(object sender, PaintEventArgs e)

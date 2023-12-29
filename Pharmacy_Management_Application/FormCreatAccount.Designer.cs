@@ -31,19 +31,13 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormCreatAccount));
             this.lblName = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.lblUserID = new System.Windows.Forms.Label();
             this.lblPassword = new System.Windows.Forms.Label();
             this.lblEmail = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
             this.tboxUserID = new System.Windows.Forms.TextBox();
             this.tboxPassword = new System.Windows.Forms.TextBox();
             this.tboxEmail = new System.Windows.Forms.TextBox();
-            this.tboxFullName = new System.Windows.Forms.TextBox();
             this.tboxUserName = new System.Windows.Forms.TextBox();
-            this.tboxAddress = new System.Windows.Forms.TextBox();
-            this.tboxPhoneNumber = new System.Windows.Forms.TextBox();
             this.btnBack = new System.Windows.Forms.Button();
             this.btnRegister = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -70,24 +64,12 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Create Account";
             // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Tai Le", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.label2.Location = new System.Drawing.Point(115, 178);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(70, 16);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Full Name";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
-            // 
             // lblUserID
             // 
             this.lblUserID.AutoSize = true;
             this.lblUserID.Font = new System.Drawing.Font("Microsoft Tai Le", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblUserID.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.lblUserID.Location = new System.Drawing.Point(115, 295);
+            this.lblUserID.Location = new System.Drawing.Point(115, 183);
             this.lblUserID.Name = "lblUserID";
             this.lblUserID.Size = new System.Drawing.Size(48, 16);
             this.lblUserID.TabIndex = 3;
@@ -115,31 +97,9 @@
             this.lblEmail.TabIndex = 5;
             this.lblEmail.Text = "Email";
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Tai Le", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.label6.Location = new System.Drawing.Point(115, 368);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(56, 16);
-            this.label6.TabIndex = 6;
-            this.label6.Text = "Address";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Tai Le", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.label7.Location = new System.Drawing.Point(115, 333);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(100, 16);
-            this.label7.TabIndex = 7;
-            this.label7.Text = "Phone Number";
-            // 
             // tboxUserID
             // 
-            this.tboxUserID.Location = new System.Drawing.Point(240, 289);
+            this.tboxUserID.Location = new System.Drawing.Point(240, 177);
             this.tboxUserID.Name = "tboxUserID";
             this.tboxUserID.Size = new System.Drawing.Size(187, 22);
             this.tboxUserID.TabIndex = 8;
@@ -158,13 +118,6 @@
             this.tboxEmail.Size = new System.Drawing.Size(187, 22);
             this.tboxEmail.TabIndex = 10;
             // 
-            // tboxFullName
-            // 
-            this.tboxFullName.Location = new System.Drawing.Point(240, 174);
-            this.tboxFullName.Name = "tboxFullName";
-            this.tboxFullName.Size = new System.Drawing.Size(187, 22);
-            this.tboxFullName.TabIndex = 11;
-            // 
             // tboxUserName
             // 
             this.tboxUserName.Location = new System.Drawing.Point(240, 137);
@@ -172,26 +125,12 @@
             this.tboxUserName.Size = new System.Drawing.Size(187, 22);
             this.tboxUserName.TabIndex = 12;
             // 
-            // tboxAddress
-            // 
-            this.tboxAddress.Location = new System.Drawing.Point(240, 364);
-            this.tboxAddress.Name = "tboxAddress";
-            this.tboxAddress.Size = new System.Drawing.Size(187, 22);
-            this.tboxAddress.TabIndex = 13;
-            // 
-            // tboxPhoneNumber
-            // 
-            this.tboxPhoneNumber.Location = new System.Drawing.Point(240, 327);
-            this.tboxPhoneNumber.Name = "tboxPhoneNumber";
-            this.tboxPhoneNumber.Size = new System.Drawing.Size(187, 22);
-            this.tboxPhoneNumber.TabIndex = 14;
-            // 
             // btnBack
             // 
             this.btnBack.BackColor = System.Drawing.Color.LightGreen;
             this.btnBack.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBack.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.btnBack.Location = new System.Drawing.Point(240, 421);
+            this.btnBack.Location = new System.Drawing.Point(240, 327);
             this.btnBack.Name = "btnBack";
             this.btnBack.Size = new System.Drawing.Size(75, 37);
             this.btnBack.TabIndex = 15;
@@ -204,7 +143,7 @@
             this.btnRegister.BackColor = System.Drawing.Color.Salmon;
             this.btnRegister.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRegister.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.btnRegister.Location = new System.Drawing.Point(337, 421);
+            this.btnRegister.Location = new System.Drawing.Point(337, 327);
             this.btnRegister.Name = "btnRegister";
             this.btnRegister.Size = new System.Drawing.Size(90, 37);
             this.btnRegister.TabIndex = 16;
@@ -220,19 +159,13 @@
             this.ClientSize = new System.Drawing.Size(963, 557);
             this.Controls.Add(this.btnRegister);
             this.Controls.Add(this.btnBack);
-            this.Controls.Add(this.tboxPhoneNumber);
-            this.Controls.Add(this.tboxAddress);
             this.Controls.Add(this.tboxUserName);
-            this.Controls.Add(this.tboxFullName);
             this.Controls.Add(this.tboxEmail);
             this.Controls.Add(this.tboxPassword);
             this.Controls.Add(this.tboxUserID);
-            this.Controls.Add(this.label7);
-            this.Controls.Add(this.label6);
             this.Controls.Add(this.lblEmail);
             this.Controls.Add(this.lblPassword);
             this.Controls.Add(this.lblUserID);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblName);
             this.Name = "FormCreatAccount";
@@ -247,19 +180,13 @@
 
         private System.Windows.Forms.Label lblName;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label lblUserID;
         private System.Windows.Forms.Label lblPassword;
         private System.Windows.Forms.Label lblEmail;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TextBox tboxUserID;
         private System.Windows.Forms.TextBox tboxPassword;
         private System.Windows.Forms.TextBox tboxEmail;
-        private System.Windows.Forms.TextBox tboxFullName;
         private System.Windows.Forms.TextBox tboxUserName;
-        private System.Windows.Forms.TextBox tboxAddress;
-        private System.Windows.Forms.TextBox tboxPhoneNumber;
         private System.Windows.Forms.Button btnBack;
         private System.Windows.Forms.Button btnRegister;
     }

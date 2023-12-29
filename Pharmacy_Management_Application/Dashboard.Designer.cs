@@ -53,8 +53,8 @@
             // panelMenu
             // 
             this.panelMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(51)))), ((int)(((byte)(76)))));
-            this.panelMenu.Controls.Add(this.btnsettings);
             this.panelMenu.Controls.Add(this.btnnotifications);
+            this.panelMenu.Controls.Add(this.btnsettings);
             this.panelMenu.Controls.Add(this.btnReporting);
             this.panelMenu.Controls.Add(this.btncustomer);
             this.panelMenu.Controls.Add(this.btnorders);
@@ -75,12 +75,12 @@
             this.btnsettings.ForeColor = System.Drawing.Color.Gainsboro;
             this.btnsettings.Image = ((System.Drawing.Image)(resources.GetObject("btnsettings.Image")));
             this.btnsettings.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnsettings.Location = new System.Drawing.Point(0, 391);
+            this.btnsettings.Location = new System.Drawing.Point(0, 329);
             this.btnsettings.Name = "btnsettings";
             this.btnsettings.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
             this.btnsettings.Size = new System.Drawing.Size(209, 62);
             this.btnsettings.TabIndex = 7;
-            this.btnsettings.Text = "   Settings";
+            this.btnsettings.Text = "   Manage User";
             this.btnsettings.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnsettings.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnsettings.UseVisualStyleBackColor = true;
@@ -95,7 +95,7 @@
             this.btnnotifications.ForeColor = System.Drawing.Color.Gainsboro;
             this.btnnotifications.Image = ((System.Drawing.Image)(resources.GetObject("btnnotifications.Image")));
             this.btnnotifications.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnnotifications.Location = new System.Drawing.Point(0, 329);
+            this.btnnotifications.Location = new System.Drawing.Point(0, 391);
             this.btnnotifications.Name = "btnnotifications";
             this.btnnotifications.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
             this.btnnotifications.Size = new System.Drawing.Size(209, 62);
